@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Realizzo un Layout Relative il cui orientamento è Horizontal. Allora tutte le view figlie
+     contenute in questa view-group saranno disposte una di fianco all'altra a formare una unica
+     linea orizzontale.
+     Impostando l'attributo layout_weight ad 1 per ognuno delle view figlie esse occuperanno ugual
+     spazio orizzontale sullo schermo fino a esaurire quello disponibile.
+
+
+-->
+
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+               xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/medium_padding"
+    android:backgroundTint="#ccc"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button 1" android:backgroundTint="#CF4343"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button 2" android:backgroundTint="#051E36"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button 3" android:backgroundTint="#454925"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button 4" android:backgroundTint="#CF43C8"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button 5" android:backgroundTint="#305B3D"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button 6" android:backgroundTint="#542F07"
+            android:textColor="@color/white"/>
+
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button 7" android:backgroundTint="#3F51B5"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Button 8" android:backgroundTint="#3F51B5"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+</LinearLayout>
