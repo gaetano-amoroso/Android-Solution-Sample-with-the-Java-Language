@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background_saveinstancestateexample_app"
+        android:scaleType="fitXY"
+
+        />
+    <TextView
+        android:id="@+id/tv_counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:layout_centerInParent="true"
+        android:textColor="#1F80CD"
+        android:textSize="70sp"
+                                         />
+
+    <Button
+        android:id="@+id/btn_add_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ADD ONE"
+        android:layout_below="@id/tv_counter"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#C1483F"
+        android:paddingHorizontal="100dp"
+                                           />
+
+</RelativeLayout>
