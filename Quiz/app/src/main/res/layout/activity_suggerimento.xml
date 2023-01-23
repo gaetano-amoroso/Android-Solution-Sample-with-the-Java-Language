@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SuggerimentoActivity">
+
+        <TextView
+            android:id="@+id/tv_question_reproposed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Question reproposed"
+            android:padding="@dimen/padding_text_view_normal"
+            android:textColor="@color/grey"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"/>
+
+
+        <TextView
+            android:id="@+id/tv_hint_showed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sei sicuro di voler vedere il suggerimento?"
+            android:padding="@dimen/padding_text_view_normal"
+            android:textColor="@color/grey"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_below="@+id/tv_question_reproposed"/>
+
+
+        <LinearLayout
+            android:id="@+id/ll_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@+id/tv_hint_showed"
+            android:layout_marginTop="20dp"
+            android:gravity="center">
+            <Button
+                android:id="@+id/btn_show"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SHOW"
+                android:layout_marginEnd="10dp"/>
+            <Button
+                android:id="@+id/btn_go_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GO-BACK"
+                android:layout_marginStart="10dp"/>
+        </LinearLayout>
+
+
+</RelativeLayout>
+
+
+
+
