@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DinamicFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment_1">Hello News Fragment 1</string>
+    <string name="hello_fragment_2">Hello Sport Fragment 2</string>
+    <string name="hello_fragment_3">Hello Science Fragment 3</string>
+</resources>
