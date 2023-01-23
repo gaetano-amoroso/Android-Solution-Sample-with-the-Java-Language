@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FragmentFurtherExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="question_article">LIKES THE ARTICLE?</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="article_title">Cry for a shadow</string>
+    <string-array name="details">
+        <item>
+        “Cry for a Shadow”  is an instrumental rock piece recorded by the Beatles on 22 June 1961.
+            It was written by George Harrison with John Lennon, as a parody of the Shadows style.
+            (The Shadows, who backed Cliff Richard, were the biggest British instrumental rock &amp;
+            roll group at the time of the recording.)  It imitates the lead guitar with typical
+            Hank Marvin licks, the melodic bass fills, and even has an imitation during the second
+            middle eight of the famous Jet Harris yell.  It is the only Beatles track to be credited
+            to Lennon and Harrison alone.  “Cry for a Shadow”\’s original title was “Beatle Bop”.
+            “Cry for a Shadow” is one of only two officially released Beatles singles to feature
+            Pete Best on drums.  The other is “Ain\’t She Sweet”, although it\’s alleged that studio
+            drummer Bernard Purdie “sweetened” the drum parts on this recording for American release.
+            (More from Wikipedia)
+        </item>
+    </string-array>
+
+</resources>
