@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">FragmentFurterExample2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="details">
+        <item>I see you crying\nSee the pattern\nThey come and go\nLeave you shattered\nYou\'ve
+            shed for so many untrueCan you cry for a shadow?\nCan you cry for a heart crying out for
+            you?\nCan you cry for a shadow?\nNo one asked you toThey don\'t deserve your priceless
+            tears\nYou will whisper\nFill your ears\nA reflection of a love long dueCan you cry for
+            a shadow?\nCan you cry for a heart crying out for you?\nCan you cry for a shadow?\nI
+            cried for a fewCan you cry?\nDry the tears and tryNow stop crying\nIt doesn\'t matter\nJust
+            lean closer\nSo I can gather\nEvery drop of your precious tearsWhen you\'re crying for
+            a shadow\nWhen you\'re crying for a heart crying out for you\nWhen you\'re crying for
+            a shadow\nLike I cried for youCan you cry?\nDry the tears and tryNow stop your crying\nIt
+            doesn\'t matter\nJust lean closer\nSo I can gather\nEvery drop of your precious tearsWhen
+            you\'re crying for a shadow\nCrying, crying for a shadow\nWhen you\'re crying for a
+            shadow\nCrying, crying\nLike I cried for you
+
+            I see you crying\nSee the pattern\nThey come and go\nLeave you shattered\nYou\'ve
+            shed for so many untrueCan you cry for a shadow?\nCan you cry for a heart crying out for
+            you?\nCan you cry for a shadow?\nNo one asked you toThey don\'t deserve your priceless
+            tears\nYou will whisper\nFill your ears\nA reflection of a love long dueCan you cry for
+            a shadow?\nCan you cry for a heart crying out for you?\nCan you cry for a shadow?\nI
+            cried for a fewCan you cry?\nDry the tears and tryNow stop crying\nIt doesn\'t matter\nJust
+            lean closer\nSo I can gather\nEvery drop of your precious tearsWhen you\'re crying for
+            a shadow\nWhen you\'re crying for a heart crying out for you\nWhen you\'re crying for
+            a shadow\nLike I cried for youCan you cry?\nDry the tears and tryNow stop your crying\nIt
+            doesn\'t matter\nJust lean closer\nSo I can gather\nEvery drop of your precious tearsWhen
+            you\'re crying for a shadow\nCrying, crying for a shadow\nWhen you\'re crying for a
+            shadow\nCrying, crying\nLike I cried for you
+        </item>
+    </string-array>
 </resources>

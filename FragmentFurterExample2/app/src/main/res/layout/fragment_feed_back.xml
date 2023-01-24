@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#FF9800">
+
+    <LinearLayout
+        android:id="@+id/ll_fragment"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2"
+        >
+        <TextView
+            android:id="@+id/tv_article_question"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Like the article?"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:elegantTextHeight="true"
+            style="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="20sp"
+            android:padding="7dp"
+            />
+
+        <RadioGroup
+            android:id="@+id/rg_rating"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            style="@style/TextAppearance.AppCompat.Medium">
+
+            <RadioButton
+                android:id="@+id/rb_0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.CompoundButton.RadioButton"
+                android:text="NO"/>
+
+            <RadioButton
+                android:id="@+id/rb_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.CompoundButton.RadioButton"
+                android:text="Yes"/>
+        </RadioGroup>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_rating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Like the Song?"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:elegantTextHeight="true"
+            style="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="20sp"
+            android:padding="7dp"
+            android:layout_marginLeft="25dp"/>
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:stepSize="1"
+            android:rating="3"
+            style="@style/Widget.AppCompat.RatingBar.Indicator"
+            android:layout_margin="8dp"
+            android:layout_marginStart="50dp"
+            android:isIndicator="false"
+            android:layout_weight="1"
+            android:layout_toRightOf="@id/tv_rating"
+            android:contentDescription="rating bar"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>
