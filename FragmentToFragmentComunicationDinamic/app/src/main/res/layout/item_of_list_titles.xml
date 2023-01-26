@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tv_item_badge_of_song"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="25sp"/>
+    <TextView
+        android:id="@+id/tv_item_title_of_song"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/item_title_of_song"
+        android:textColor="#515050"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:gravity="left|fill_horizontal"
+        android:paddingStart="15dp"
+        android:layout_toRightOf="@id/tv_item_badge_of_song"/>
+    <TextView
+        android:id="@+id/tv_item_author_of_song"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/item_outhor_of_song"
+        android:textColor="#393939"
+        android:textSize="15sp"
+        android:gravity="left|fill_horizontal"
+        android:paddingStart="15dp"
+        android:layout_toRightOf="@id/tv_item_badge_of_song"
+        android:layout_below="@id/tv_item_title_of_song"
+
+        android:textStyle="normal"
+        />
+
+</RelativeLayout>

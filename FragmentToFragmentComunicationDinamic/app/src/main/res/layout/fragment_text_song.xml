@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TextSongFragment"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <TextView
+        android:id="@+id/tv_song_text_badge"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_song_text_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/tv_song_text_badge"
+        android:gravity="left|fill_horizontal"
+        android:paddingStart="15dp"
+        android:text="@string/item_title_of_song"
+        android:textColor="#515050"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_song_text_author"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/item_outhor_of_song"
+        android:textColor="#393939"
+        android:textSize="15sp"
+        android:gravity="left|fill_horizontal"
+        android:paddingStart="15dp"
+        android:layout_toRightOf="@id/tv_song_text_badge"
+        android:layout_below="@id/tv_song_text_title"
+        android:textStyle="normal"
+        android:layout_marginTop="5dp"
+        />
+
+    <ListView
+        android:id="@+id/lv_text_song"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_song_text_author">
+
+    </ListView>
+
+
+</RelativeLayout>

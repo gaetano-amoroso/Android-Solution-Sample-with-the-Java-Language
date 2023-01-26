@@ -20,7 +20,7 @@ public class CustomAdapter extends ArrayAdapter<Contatto> {
 
     public CustomAdapter(@NonNull Context context, int resource, @NonNull List<Contatto> objects) {
         super(context, resource, objects);
-        // Creo un LayoutInflater
+        // Creo un LayoutInflater capace di fare l'inflate di layout basati su context
         m_inflater = LayoutInflater.from(context);
     }
 

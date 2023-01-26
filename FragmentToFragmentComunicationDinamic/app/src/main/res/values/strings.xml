@@ -1,0 +1,1672 @@
+<resources>
+    <string name="app_name">FragmentToFragmentComunicationDinamic</string>
+    <string-array name="top_title_songs">
+        <item>A Te (Safari (2008):Jovanotti</item>
+        <item>Meraviglioso (San Siro Live (2008):Negramaro</item>
+        <item>Non Ti Scordar Mai Di Me (X-Factor 2008):Giusy Ferreri</item>
+        <item>Il Regalo Più Grande (Alla Mia Età) (2008):Tiziano Ferro</item>
+        <item>La Cura (L’Imboscata (1996)):Franco Battiato</item>
+        <item>L’Amore Si Odia (L’Amore Si Odia (2009):Noemi E Fiorella Mannoia</item>
+        <item>Il Centro Del Mondo (Secondo Tempo (2008):Ligabue</item>
+        <item>Niente Più (Per Il Mondo (2009):Claudio Baglioni</item>
+        <item>M’Abituerò (Campovolo (2011):Ligabue</item>
+        <item>Per Tutto Il Tempo (Soundview (2009):Raf</item>
+        <item>Grazie (Sotto Una Pioggia Di Parole) (2009):Zero Assoluto</item>
+        <item>Scusa Ma Ti Chiamo Amore (Scusa Ma Ti Chiamo Amore (2008):Sugarfree</item>
+        <item>Non È Mai Un Errore (Metamorfosi) (2008):Raf</item>
+        <item>Ti Vorrei Sollevare (Heart (2009):Elisa Feat. Giuliano Sangiorgi</item>
+        <item>Il Mio Pensiero (Secondo Tempo) (2008):Ligabue</item>
+        <item>Buongiorno A Te (Ti Adoro) (2004):Luciano Pavarotti</item>
+        <item>Poker Face (The Fame (2008):Lady Gaga</item>
+        <item>Indietro (Alla Mia Età (2008):Tiziano Ferro</item>
+        <item>Arrivi Tu (Senza Nuvole (2009):Alessandra Amoroso</item>
+        <item>Baciami Ancora (Baciami Ancora Ost (2010):Jovanotti</item>
+        <item>Il Senso Di Ogni Cosa (Barabba (2009):Fabrizio Moro</item>
+        <item>Un Fatto Ovvio (Primavera In Anticipo (2008):Laura Pausini</item>
+        <item>Senza Nuvole (Senza Nuvole (2009):Alessandra Amoroso</item>
+        <item>Che Rumore Fa La Felicita’ (Helldorado (2008):Negrita</item>
+        <item>Libero (Domani (2008):Fabrizio Moro</item>
+        <item>Con La Musica Alla Radio (Laura Live (2009):Laura Pausini</item>
+        <item>Dicono Di Me (Il Primo Bacio Sulla Luna (2008):Cesare Cremonini</item>
+        <item>Saro’ Sincero (Sala D’Attesa (2008):Modà</item>
+        <item>Come Foglie (Sanremo 2009 (2009):Malika Ayane</item>
+        <item>Singhiozzo(Casa 69 (2010):Negramaro</item>
+        
+    </string-array>
+    <string-array name="text_of_song">
+        <item>A te che sei l’unica al mondo
+L’unica ragione per arrivare fino in fondo
+Ad ogni mio respiro
+Quando ti guardo
+Dopo un giorno pieno di parole
+Senza che tu mi dica niente
+Tutto si fa chiaro
+
+A te che mi hai trovato
+All’angolo coi pugni chiusi
+Con le mie spalle contro il muro
+Pronto a difendermi
+Con gli occhi bassi
+Stavo in fila
+Con i disillusi
+Tu mi hai raccolto come un gatto
+E mi hai portato con te
+
+A te io canto una canzone
+Perchè non ho altro
+Niente di meglio da offrirti
+Di tutto quello che ho
+Prendi il mio tempo
+E la magia
+Che con un solo salto
+Ci fa volare dentro l’aria
+Come bollicine
+
+A te che sei
+Semplicemente sei
+Sostanza dei giorni miei
+Sostanza dei giorni miei
+
+A te che sei il mio grande amore
+Ed il mio amore grande
+A te che hai preso la mia vita
+E ne hai fatto molto di più
+A te che hai dato senso al tempo
+Senza misurarlo
+A te che sei il mio amore grande
+Ed il mio grande amore
+
+A te che io
+Ti ho visto piangere nella mia mano
+Fragile che potevo ucciderti
+Stringendoti un po’
+E poi ti ho visto
+Con la forza di un aeroplano
+Prendere in mano la tua vita
+E trascinarla in salvo
+
+A te che mi hai insegnato i sogni
+E l’arte dell’avventura
+A te che credi nel coraggio
+E anche nella paura
+A te che sei la miglior cosa
+Che mi sia successa
+A te che cambi tutti i giorni
+E resti sempre la stessa
+
+A te che sei
+Semplicemente sei
+Sostanza dei giorni miei
+Sostanza dei sogni miei
+A te che sei
+Essenzialmente sei
+Sostanza dei sogni miei
+Sostanza dei giorni miei
+
+A te che non ti piaci mai
+E sei una meraviglia
+Le forze della natura si concentrano in te
+Che sei una roccia, sei una pianta, sei un uragano
+Sei l’orizzonte che mi accoglie quando mi allontano
+
+A te che sei l’unica amica
+Che io posso avere
+L’unico amore che vorrei
+Se io non ti avessi con me
+A te che hai reso la mia vita
+Bella da morire
+Che riesci a render la fatica
+Un immenso piacere
+
+A te che sei il mio grande amore
+Ed il mio amore grande
+A te che hai preso la mia vita
+E ne hai fatto molto di più
+A te che hai dato senso al tempo
+Senza misurarlo
+A te che sei il mio grande amore
+Ed il mio amore grande
+
+A te che sei
+Semplicemente sei
+Sostanza dei giorni miei
+Sostanza dei sogni miei
+A te che sei
+Semplicemente sei
+Compagna dei giorni miei
+Sostanza dei sogni miei
+        </item>
+        <item>
+ Credetemi è accaduto
+di notte su di un ponte
+guardando l’acqua scura
+con la dannata voglia
+di fare un tuffo giù uh
+D’un tratto
+qualcuno alle mie spalle
+forse un angelo
+vestito da passante
+mi portò via dicendomi
+Così…
+Meraviglioso
+ma come non ti accorgi
+di quanto il mondo sia
+meraviglioso
+Meraviglioso
+perfino il tuo dolore
+
+potrà guarire poi
+meraviglioso
+Ma guarda intorno a te
+che doni ti hanno fatto:
+ti hanno inventato
+il mare eh!
+Tu dici non ho niente
+Ti sembra niente il sole!
+La vita…
+
+l’amore…
+Meraviglioso
+il bene di una donna
+che ama solo te
+meraviglioso
+La luce di un mattino
+l’abbraccio di un amico
+il viso di un bambino
+meraviglioso
+
+Meraviglioso?
+ah!
+(vocalizzato)
+Ma guarda intorno a te
+che doni ti hanno fatto:
+ti hanno inventato
+il mare eh!
+Tu dici non ho niente
+Ti sembra niente il sole!
+
+La vita
+l’amore
+meraviglioso
+(vocalizzato)
+La notte era finita
+e ti sentivo ancora
+Sapore della vita
+Meraviglioso
+Meraviglioso
+
+Meraviglioso
+Meraviglioso
+Meraviglioso
+Meraviglioso
+        </item>
+        <item>
+Se fossi qui come questa sera
+sarei felice e tu lo sai
+Sarebbe meglio anche la luna
+ora più piccola che mai
+Farei anche a meno della nostalgia
+che da lontano torna per portarmi via
+Del nostro amore solo una scia
+che il tempo poi cancellerà
+e nulla sopravviverà .
+
+Non ti scordar mai di me
+di ogni mia abitudine
+in fondo siamo stati insieme,
+e non è un piccolo particolare.
+Non ti scordar mai di me
+della più incantevole
+fiaba che abbia mai scritto. www.testicanzone.com
+Un lieto fine era previsto e sai gradito.
+
+Forse è stata un po colpa mia
+vedere forse per l’eternità
+A volte tutto un po si consuma
+senza preavviso se ne và .
+
+Non ti scordar mai di me
+di ogni mia abitudine
+in fondo siamo stati insieme,
+e non è un piccolo particolare.
+        </item>
+        <item>
+Voglio farti un regalo
+Qualcosa di dolce
+Qualcosa di raro
+Non un comune regalo
+Di quelli che hai perso
+Mai aperto
+O lasciato in treno
+O mai accettato
+Di quelli che apri e poi piangi
+Che sei contenta e non fingi
+In questo giorno di metà  settembre
+Ti dedicherò
+Il regalo mio più grande
+
+Vorrei donare il tuo sorriso alla luna perché
+Di notte chi la guarda possa pensare a te
+Per ricordarti che il mio amore è importante
+Che non importa ciò che dice la gente
+Perché tu mi hai protetto con la tua gelosia che anche
+Che molto stanco il tuo sorriso non andava via
+Devo partire però so nel cuore www.testicanzone.com
+La tua presenza è sempre arrivo
+E mai partenza
+Il regalo mio più grande
+Il regalo mio più grande
+
+Vorrei mi facessi un regalo
+Un sogno inespresso
+Donarmelo adesso
+Di quelli che non so aprire
+Di fronte ad altra gente
+Perché il regalo più grande
+È solo nostro per sempre
+
+Vorrei donare il tuo sorriso alla luna perché
+Di notte chi la guarda possa pensare a te
+Per ricordarti che il mio amore è importante
+Che non importa ciò che dice la gente
+Perché tu mi hai protetto con la tua gelosia che anche
+Che molto stanco il tuo sorriso non andava via
+Devo partire però so nel cuore
+La tua presenza è sempre arrivo
+E mai…
+
+E se arrivasse ora la fine
+Che sia in un burrone
+Non per volermi odiare
+Solo per volare
+E se ti nega tutto quest’estrema agonia
+E se ti nega anche la vita respira la mia
+E stavo attento a non amare prima di incontrarti
+E confondevo la mia vita con quella degli altri
+Non voglio farmi più del male adesso
+L’amore amore
+
+Vorrei donare il tuo sorriso alla luna perché
+Di notte chi la guarda possa pensare a te
+Per ricordarti che il mio amore è importante
+Che non importa ciò che dice la gente
+E poi
+L’amore dato amore preso amore mai reso
+Amore grande come il tempo che non si è arreso
+Amore che mi parla coi tuoi occhi qui di fronte
+Sei tu sei tu sei tu sei tu sei tu
+Il regalo mio più grande
+Tutte le canzoni di Tiziano Ferro
+        </item>
+        <item>
+Ti proteggerò dalle paure delle ipocondrie,
+dai turbamenti che da oggi incontrerai per la tua via,
+dalle ingiustizie e dagli inganni del tuo tempo,
+dai fallimenti che per tua natura normalmente attirerai.
+Ti sollleverò dai dolori e dai tuoi sbalzi d’umore
+dalle ossessioni delle tue manie.
+Supererò le correnti gravitazionali
+lo spazio e la luce per non farti invecchiare;
+e guarirai da tutte le malattie.
+
+Perchè sei un essere speciale
+ed io avrò cura di te.
+
+Vagavo per i campi del Tennessee,
+come vi ero arrivato chissà
+non hai fiori bianchi per me?
+più veloci di aquile i miei sogni
+attraversano il mare.
+Ti porterò soprattutto il silenzio e la pazienza,
+percorreremo assieme le vie che portano all’essenza.
+I profumi d’amore inebrieranno i nostri corpi,
+la bonaccia d’Agosto non calmerà  i nostri sensi.
+Tesserò i tuoi capelli come trame di un canto,
+conosco le leggi del mondo e te ne farò dono.
+Supererò le correnti gravitazionali
+lo spazio e la luce per non farti invecchiare;
+ti salverò da ogni malinconia.
+
+Perchè sei un essere speciale
+ed io avrò cura di te.
+Io sì che avrò cura di te
+        </item>
+        <item>
+Noemi: Vieni qua, vieni qua, che ti dovevo dire
+tutte quelle cose che, cose che, non hai voluto sentire, soffrire, godere o finire.
+Vieni qua, vieni qua, sempre la stessa storia
+un equilibrio instabile, instabile, che crolla al vento di una nuova gloria, l’amore si odia.
+Ah, se fosse così facile, ah, se fosse ancora innamorato di me
+ed ogni petalo, sai, si finge di essere una rosa
+per ogni goccia vorrei diluvio sopra ogni cosa
+ma tu non meriti più un battito di questa vita
+per tutto quello che conta, se conta, sei come colla tra le dita.
+Fiorella Mannoia: Vieni qua, vieni qua, io ti volevo bene,
+ma riparlarne è inutile, inutile, non ha più senso pensarti, capire, provare o sparire
+Vieni qua, vieni qua, le solite parole
+di un sentimento fragile, fragile, come l’asfalto consuma la suola, l’amore si odia.
+N: ah, se fosse tutto facile
+N &amp; M: ah, se fosse ancora innamorata di te
+M: ed ogni petalo sai
+N: si finge di essere una rosa
+M: per ogni goccia vorrei
+N: diluvio sopra ogni cosa
+M: ma tu non meriti più un battito di questa vita
+N: che tutto quello che conta
+M: se conta
+N: sei come colla sulle dita
+M: e ogni petalo, sai, si finge di essere una rosa
+N &amp; M: per ogni goccia vorrei diluvio sopra ogni cosa
+M: ogni cosa
+N: ma tu non meriti più un attimo della mia vita
+M: per tutto quello che conta
+N: se conta, sei la mia impronta sulle dita
+        </item>
+        <item>
+Portami dove mi devi portare
+Africa, Asia o nel primo locale
+fammi vedere che cosa vuol dire
+partire davvero
+
+Portami dove non posso arrivare
+dove si smette qualsiasi pudore
+fammi sentire che cosa vuol dire
+
+
+
+viaggiare leggeri
+Sei sempre così il centro del mondo
+il viaggio potente nel cuore
+del tempo andata e ritorno
+
+Portami ovunque portami al mare
+portami dove non serve sognare
+chiedemi il cambio
+solo se devi,
+sei brava a guidare
+e dopo portami oltre che lo sai fare
+dove sparisce qualsiasi confine
+fammi vedere che cosa vuol dire
+viaggiare col cuore
+
+Sei sempre così il centro del mondo
+il primo bengala sparato nel cielo quando mi perdo
+sei sempre così il centro del mondo
+ti prendi il mio tempo
+ti prendi il mio spazio
+ti prendi il mio meglio
+
+Portami dove mi devi portare Venere,
+Marte o altri locali
+fammi vedere che cosa succede a viaggiare davvero
+
+Sei sempre così il centro del mondo
+il primo bengala sparato nel cielo
+quando mi perdo
+sei sempre così
+il centro del mondo
+ti prendi il mio tempo
+ti prendi il mio spazio
+ti prendi il mio meglio
+        </item>
+        <item>
+Tu sei quel respiro
+che mi toglie ancora il fiato
+il solo nome che mi viene
+come cerco le parole
+e ho visto nubi andare altrove
+e tu sei il cielo che è restato
+la luce che piange negli occhi
+quando piove con il sole
+
+Tu sei la neve che ha imbiancato
+i giorni grigi di una storia
+la primavera che ha svegliato
+il tuo profumo che ho in memoria
+
+Sei il senso che ho di me
+quello che fui insieme a te
+tra la gente e il mondo
+Tu sei in cima e in fondo tu
+per prima tu
+e niente più
+niente come prima..
+
+Tu sarai per sempre
+il mio peccato originale
+in questa corsa per la vita
+tu sei il mio lavoro nero
+ed io non posso farne a meno
+farmi di te
+e farmi male
+far tardi a leggere la notte
+i tuoi pensieri col pensiero
+
+Tu sei quel cagnolino ignaro
+che ho lasciato per la strada
+e da quel giorno pago caro
+e mi segue ovunque vada
+
+Tu, sei il senso che ho di me
+quello che fui insieme a te
+tra la gente e il mondo
+Tu, sei in cima e in fondo tu
+per prima tu
+e niente più
+niente più di prima.
+
+Se torni qui
+tu non tornare
+siamo frecce
+da non voltare
+foglie sul viale
+che non puoi ridare
+al loro ramo
+il passato è sale
+si scioglie
+a dar sapore al futuro
+quello che più
+non si perde
+non perdere
+quel che c’è oltre il muro
+
+Tu, sei il senso che ho di me
+quello che fui insieme a te
+tra la gente e il mondo
+Tu, sei in cima e in fondo tu
+per prima tu
+e niente più
+niente dopo e prima
+tu che non fai rima tu
+niente più.
+niente più..
+niente più….
+Tutte le canzoni di Claudio Baglioni
+        </item>
+        <item>
+M’abituerò a non trovarti
+M’abituerò a voltarmi e non ci sarai
+M’abituerò a non pensarti
+Quasi mai, quasi mai, quasi mai
+
+Alla fine c’è sempre uno strappo
+E c’è qualcuno che ha strappato di più
+Non è mai qualcosa di esatto
+Chi ha dato ha dato e poi chi ha preso ha preso tutto quel che c’era
+Non conta più sapere chi ha ragione
+Non conta avere l’ultima parola, ora
+
+M’abituerò a non trovarti
+M’abituerò a voltarmi e non ci sarai
+M’abituerò a non pensarti
+Quasi mai, quasi mai, quasi mai
+
+Alla fine non è mai la fine
+Ma qualche fine dura un po’ di più
+Da qui in poi si può solo andare
+ognuno come può portando nel bagaglio quel che c’era
+E le macerie dopo la bufera
+Ricordi belli come un dispiacere, ora
+
+M’abituerò a non trovarti
+M’abituerò a voltarmi e non ci sarai
+M’abituerò a non pensarti
+Quasi mai, quasi mai, quasi mai
+        </item>
+        <item>
+Testo della canzone PER TUTTO IL TEMPO di Raf
+In questo mondo che deve cambiare
+tu non cambiare mai
+le righe scritte a mano
+dal tuo cuore su un foglio bianco
+tra i regali di Natale
+
+Andiamo fuori che nevica
+e sembra vero questo finto inverno
+si può sorridere si può sperare
+per quanto strana
+la vita a volte sembra normale
+
+Io che ho avuto tanto
+non mi rendevo conto
+che in fondo quel che conta
+è dividere con te
+ogni attimo…
+
+Per tutto il tempo
+di questo tempo
+che quando l’hai compreso
+è già  passato
+Giorno per giorno
+andremo avanti
+un passo dopo l’altro
+sempre in contatto stretto
+per tutto il tempo…
+
+E ho cercato tutte le parole
+negli orizzonti aurore luci e stelle
+ma non c’è niente che possa esprimere
+vagamente quello che provo per te
+
+Ma tu che hai imparato
+a leggere dentro di me
+sai che vorrei,
+vorrei portarti via…
+
+E più lontano
+sopra un arcobaleno
+nel mezzo di un concerto
+in mare aperto…
+E il vento sul tuo viso avrai
+la curva di un sorriso strepitoso
+che come un faro acceso
+per me che ti guardo col fiato sospeso
+
+come quella prima volta
+che incontrandoci per caso
+il destino ci ha sorpreso
+sentirai guardandomi negli occhi
+che non è cambiato niente
+in quel riflesso ci sei sempre tu
+sei tu…
+
+Per tutto il tempo
+del nostro tempo
+che appena l’hai afferrato
+è gia tornato..
+tu lascialo
+tanto non può cambiare
+un vero amore, vero
+per tutto il tempo..
+        </item>
+        <item>
+Chissà  se avremo altre occasioni
+per dirci che succede come finirà
+in questi giorni così strani
+un pò veloci
+quando tutto dorme esia che prima o poi i sveglierà
+sono momenti che hai vissuto già
+li riconosci riconosco te
+come le finestre della mia città
+come il silenzio di chi può fidarsi e può lasciarsi andare
+
+Grazie
+per ogni singolo momento nostro
+per ogni gesto il più nascosto
+ogni promessa ogni parola scritta
+dentro una stanza che racchiude ogni certezza
+
+Sono centimetri che ci dividono
+e sai che è solo questo
+la voglia di sentirti accanto più di tutto il resto
+ti vedo e ci rivedo un’altra volta ancora
+cos’è cambiato e dove siamo adesso ora
+le nostre chiacchere
+ridammi l’accendino
+ci siamo tutti oggi restami vicino
+le lunghe attese casa tua ormai sei grande
+e l’importanza di sentirsi più importante
+
+Grazie
+per ogni singolo momento nostro
+per ogni gesto il più nascosto
+ogni promessa ogni parola scritta
+dentro una stanza che racchiude ogni certezza
+
+Per ogni giorno ed ogni notte
+per ogni sogno ed ogni risveglio
+non può finire
+perchè davvero ti conosco
+e mi conosci ancora meglio
+non può finire
+
+Grazie
+per ogni singolo momento nostro
+per ogni gesto il più nascosto
+ogni promessa ogni parola scritta
+dentro un stanza che racchiude ogni certezza
+        </item>
+        <item>
+Scusa ti chiamo amore
+non so dire nulla più
+scusa se ti ho dato un nome
+dico solo che sei tu
+ridisegni il mio destino
+e colori il desiderio dentro gli occhi miei
+Io non ho più freddo
+adesso che ho imparato a piangere
+e non ho paura quando sento di rinascere
+mi rimetto in gioco adesso
+lascio correre il mio cuore verso di te
+Non è troppo tardi
+in tasca ora ho la libertà
+puoi tirarla fuori quando vuoi
+Una vita da riscrivere
+nel tuo cuore www.testicanzone.com
+che ha mille pagine
+sfoglierò poesie che parlano di noi
+Un amore che non ha età
+Scusa ma ti chiamo amore e non posso dir di più
+Scusa se non posso avere gli anni che hai ora tu
+ma conservo quell’istinto per volare come un aquilone in libertà
+L’amore non è convenzione
+non si delimita
+scorre nei nostri cuori ormai
+Una vita da riscrivere
+nel tuo cuore
+che ha mille pagine
+parlerò di un amore che
+Oltrepassa le distanze non si ferma mai
+Non si ferma mai
+Una vita da riscrivere
+nel tuo cuore
+che ha mille pagine
+sfoglierò poesie che parlano di noi
+Un amore che non ha età
+Scusa ma ti chiamo amore
+non so dire nulla più
+scusa se ti ho dato un nome
+ora puoi chiamarmi anche tu
+        </item>
+        <item>
+Ti guardo per l’ultima volta mentre vado via
+Ti ascolto respirare non scatto la fotografia
+Non porterò nessuna traccia dentro me
+niente che dovrò rimuovere.
+Se hai giocato è uguale anche se adesso fa male
+Se hai amato era amore, non è mai un errore
+Era bello sentirti e tenerti vicino
+Anche solo per lo spazio di un mattino.
+Ti guardo per l’ultima volta mentre vai via
+Ti vedo camminare, è come per magia
+non sarai pensieri, non sarai realtà
+Sai che bello, sai che felicità ..
+Se hai sbagliato è uguale anche se adesso fa male
+Se hai amato era amore e non è mai un errore
+Era bello guardarti e tenerti per mano
+O anche solo immaginarti da lontano
+E se hai mentito è uguale ora lasciami andare
+
+Ma se hai amato era amore e non è mai un errore
+Era bello sentirti, rimanerti vicino
+Anche solo per lo spazio di un mattino
+Entrerò nei tuoi pensieri di una notte che non dormi
+e sentirai freddo dentro
+Entrerò dentro ad un sogno, quando è già  mattino
+e per quel giorno tu mi porterai con te
+Se hai giocato è uguale anche se ancora fa male
+Ma se hai amato era amore e non è mai un errore
+Era bello sentirti e tenerti vicino
+Anche solo nella luce del mattino
+E se hai mentito è uguale ma ora lasciami andare
+Se hai amato era amore non sarà  mai un errore
+E’ stato bello seguirti, rimanerti vicino
+anche solo per lo spazio di un mattino.
+        </item>
+        <item>
+Mi hai lasciato senza parole
+come una primavera
+e questo è un raggio di luce
+un pensiero che si riempe
+di te
+E l’attimo in cui il sole
+diventa dorato
+e il cuore si fa leggero
+come l’aria prima che il tempo
+ci porti via
+ci porti via
+da qui
+
+Ti vorrei sollevare
+Ti vorrei consolare
+Mi hai detto ti ho visto cambiare
+Tu non stai più a sentire
+per un momento avrei voluto
+che fosse vero anche soltanto
+un pò
+Perchè ti ho sentito entrare
+ma volevo sparire
+e invece ti ho visto mirare
+invece ti ho visto sparare
+a quell’anima
+che hai detto che non ho
+
+Ti vorrei sollevare
+Ti vorrei consolare
+Ti vorrei sollevare
+Ti vorrei ritrovare
+vorrei viaggiare su ali di carta con te
+sapere inventare
+sentire il vento che soffia
+e non nasconderci se ci fa spostare
+quando persi sotto tante stelle
+ci chiediamo cosa siamo venuti a fare
+cos’è l’amore
+stringiamoci più forte ancora
+teniamoci vicino al cuore
+
+Ti vorrei sollevare
+Ti vorrei consolare
+e viaggiare su ali di carta con te
+sapere inventare
+sentire il vento che soffia
+e non nasconderci se ci fa spostare
+quando persi sotto tante stelle
+ci chiediamo cosa siamo venuti a fare
+cos’è l’amore
+stringiamoci più forte ancora
+teniamoci vicino al cuore
+vorrei viaggiare su ali di carta con te
+vorrei sapere inventare
+sentire il vento che soffia
+e non nasconderci se ci fa spostare
+quando persi sotto tante stelle
+ci chiediamo cosa siamo venuti a fare
+cos’è l’amore
+stringiamoci più forte ancora
+teniamoci vicino al cuore
+        </item>
+        <item>
+Cosa c’entra questo cielo lucido
+Che non è mai stato così blu
+E chi se ne frega delle nuvole
+Mentre qui manchi tu
+
+Pomeriggio spompo di domenica
+Come fanno gli altri a stare su
+Non arriva neanche un po’ di musica
+Quando qui manchi tu
+
+E adesso che sei dovunque sei
+Chissà  se ti arriva il mio pensiero
+Chissà  se ne ridi o se ti fa piacere
+
+Cosa c’entra quel tramonto inutile
+Non ha l’aria di finire più
+E ci tiene a dare il suo spettacolo
+Mentre qui manchi tu
+
+Così solo da provare panico
+E c’è qualcun’altra qui con me
+Devo avere proprio un aria stupida
+Sai com’è manchi te
+
+E adesso che sei dovunque sei
+Chissà  se ti arriva il mio pensiero
+Chissà  se ne ridi o se ti fa piacere
+
+E adesso che sei dovunque sei
+Ridammelo indietro il mio pensiero
+Deve esserci un modo per lasciarmi andare
+
+Cosa c’entra questa notte giovane
+Non mi cambia niente la tv
+E che tristezza che mi fa quel comico
+Quando qui manchi tu
+
+E adesso che sei dovunque sei
+Chissà  se ti arriva il mio pensiero
+Chissà  se ne ridi o se ti fa piacere
+
+E adesso che sei dovunque sei
+Ridammelo indietro il mio pensiero
+Deve esserci un modo per lasciarmi andare
+        </item>
+        <item>
+Buongiorno a questo giorno che si sveglia oggi con me,
+buongiorno al latte ed al caffè,
+buongiorno a chi non c’è…
+
+
+
+… e al mio amore buongiorno per dirle
+che è lei,
+che per prima al mattino veder’io vorrei
+è un giorno nuovo e spero che sia buono
+anche per te.
+Buongiorno voce, vita mia, buongiorno Fantasia,
+Buongiorno Musica che sei l’oblio dei giorni miei…
+… e a coloro che aiutan chi non ce la fa,
+per donar loro un giorno che migliorerà …
+è un giorno nuovo, e poi chissà , se il mondo
+cambierà  e ballerà .
+
+Come un walzer, la vita danzarla dovrai,
+è un vestito da sera che tu indosserai,
+è una festa con mille invitati, un po’ belli
+e un po’ odiati, con cui ballerai.
+Ma è danzando la vita che tu imparerai
+che ogni grande proposito è un passo che fai!
+è un giorno nuovo anche per te,
+festeggialo
+con me!
+
+Buongiorno cari figli mei, buongiorno a tutti voi !
+Pensate al giorno che verrà  come una novità ,
+Ed un dono inatteso che vi arricchirà ,
+di una nuova esperienza che si può ballar.
+E un passo nuovo e un altro ancor, e il
+mondo cambierà  e ballerà .
+
+Come un walzer, la vita danzarla dovrai,
+è un vestito da sera che tu indosserai,
+è una festa con mille invitati, un po’ belli
+e un po’ odiati, con cui ballerai.
+Ma è danzando la vita che tu imparerai
+che ogni grande proposito è un passo che fai!
+è un giorno nuovo anche per te,
+festeggialo
+con me !
+
+Ma è danzando la vita che tu imparerai
+che ogni grande proposito è un passo che fai,
+è un giorno nuovo e prego che sia tutto
+da ballar con te
+        </item>
+        <item>
+I wanna hold em? like they do in Texas Plays
+Fold em? let em? hit me raise it baby stay with me (I love it)
+Luck and intuition play the cards with Spades to start
+And after he?s been hooked I?ll play the one that?s on his heart
+
+Oh, oh, oh, oh, ohhhh, ohh-oh-e-ohh-oh-oh
+I?ll get him hot, show him what I?ve got
+Oh, oh, oh, oh, ohhhh, ohh-oh-e-ohh-oh-oh,
+I?ll get him hot, show him what I?ve got
+
+Can?t read my,
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+Can?t read my
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+
+I wanna roll with him a hard pair we will be
+A little gambling is fun when you?re with me I love it)
+Russian Roulette is not the same without a gun
+And baby when it?s love if it?s not rough it isn?t fun, fun
+
+Oh, oh, oh, oh, ohhhh, ohh-oh-e-ohh-oh-oh
+I?ll get him hot, show him what I?ve got
+Oh, oh, oh, oh, ohhhh, ohh-oh-e-ohh-oh-oh,
+I?ll get him hot, show him what I?ve got
+
+Can?t read my,
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+Can?t read my
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+
+I won?t tell you that I love you
+Kiss or hug you
+Cause I?m bluffin? with my muffin
+I?m not lying I?m just stunnin? with my love-glue-gunning
+Just like a chick in the casino
+Take your bank before I pay you out
+I promise this, promise this
+Check this hand cause I?m marvelous
+
+Can?t read my,
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+Can?t read my
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+
+Can?t read my,
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+Can?t read my
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+
+Can?t read my,
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+Can?t read my
+Can?t read my
+No he can?t read my poker face
+(She?s got to love nobody)
+
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+P-p-p-poker face, p-p-poker face
+(Mum mum mum mah)
+        </item>
+        <item>
+Io voglio regalarti la mia vita.
+Chiedo tu cambi tutta la mia vita, ora.
+Ti do questa notizia in conclusione.
+Notizia è l’anagramma del mio nome, vedi.
+E so che serve tempo, non lo nego.
+Anche se in fondo tempo non ce n’è, ma se…
+
+[Rit]
+Cerco lo vedo.
+L’amore va veloce e tu stai indietro.
+Se cerchi mi vedi.
+Il bene più segreto sfugge all’uomo che non guarda avanti, mai.
+
+Ricevo il tuo contrordine speciale.
+Nemico della logica morale.
+Opposto della fisica normale.
+Geometria degli angoli nascosti, nostri.
+E adesso!
+Ripenso a quella foto insieme.
+Decido che non ti avrei mai perduta,
+mai perduta, perché ti volevo troppo.
+
+Mancano i colpi al cuore.
+Quel poco tanto di dolore.
+Quell’attitudine di chi ricorda tutto, ma se…
+
+[Rit]
+Guardo, lo vedo.
+Il mondo va veloce e tu vai indietro.
+Se cerchi, mi vedi.
+Il bene più segreto sfugge all’uomo che non guarda avanti, mai.
+
+Dietro le lacrime che mi hai nascosto.
+Negli spazi di un segreto opposto.
+Resto fermo e ti aspetto.
+Da qui non mi è possibile.
+No non rivederti più.
+Se lontana non sei stata mai.
+
+[Rit]
+Se cerco lo vedo.
+L’amore va veloce e tu stai indietro.
+Se cerchi mi vedi.
+Il bene più segreto sfugge all’uomo che non guarda avanti, mai.
+        </item>
+        <item>
+Sei un continente ancora da scoprire
+un’occasione che deve arrivare
+la medicina che ci può salvare
+la casa nuova che vorrei comprare
+sei una catena che si può spezzare
+l’incomprensione che si può chiarire
+un viaggio intercontinentale
+un’abitudine da disegnare
+se solo io potessi inventarti un giorno
+se solo tu potessi innamorarti di me
+è il tuo cammino a volte che ti viene incontro
+in quelle cose già  decise dove io mi aspetto te
+la coincidenza ci farà  incontrare
+e chiamalo destino quel percorso naturale
+che due puntini dentro l’universo
+raggiungono la strada che li illumina d’immenso
+la confidenza mischierà  le carte
+da non capire mai qual è il punto di confine
+e non saper distinguire il tuo corpo
+dove finisci tu, comincio io
+e questo è il senso di un momento già  perfetto
+è questo il punto da cui inizia tutto quanto
+Arrivi tu
+Sei un letto fresco in cui poter dormire
+e quel pensiero fatto per peccare
+un’altra lettera da non spedire
+un piatto comodo da cucinare
+se solo io potessi inventarti un giorno
+se solo tu potessi innamorarti di me
+è il tuo cammino a volte che ti viene incontro
+in quelle cose già  decise dove io mi aspetto te
+la coincidenza ci farà  incontrare
+e chiamalo destino quel percorso naturale
+che due puntini dentro l’universo
+raggiungono la strada che li illumina d’immenso
+la confidenza mischierà  le carte
+da non capire mai qual è il punto di confine
+e non saper distinguire il tuo corpo
+dove finisci tu comincio io
+questo è il senso di un momento già  perfetto
+è questo il punto da cui inizia tutto quanto
+Arrivi tu
+Sei un bambino a cui devo insegnare
+le cose base prima di partire
+sei un continente ancora da scoprire
+un’occasione che deve arrivare.
+        </item>
+        <item>
+Un bellissimo spreco di tempo
+un’impresa impossibile
+l’invenzione di un sogno
+una vita in un giorno
+una tenda al di là  della duna
+
+Un pianeta in un sasso, l’infinito in un passo
+il riflesso di un sole sull’onda di un fiume
+son tornate le lucciole a Roma
+nei parchi del centro l’estate profuma.
+
+Una mamma, un amante, una figlia
+un impegno, una volta una nuvola scura
+un magnete sul frigo, un quaderno di appunti
+una casa, un aereo che vola.
+
+Baciami ancora…
+Baciami ancora…
+
+Tutto il resto è un rumore lontano
+una stella che esplode ai confini del cielo.
+
+Baciami ancora…
+Baciami ancora…
+
+Voglio stare con te
+inseguire con te
+tutte le onde del nostro destino.
+
+Una bimba che danza, un cielo, una stanza
+una strada, un lavoro, una scuola
+un pensiero che sfugge
+una luce che sfiora
+una fiamma che incendia l’aurora.
+
+Un errore perfetto, un diamante, un difetto
+uno strappo che non si ricuce.
+
+Un respiro profondo per non impazzire
+una semplice storia d’amore.
+
+Un pirata, un soldato, un dio da tradire
+e l’occasione che non hai mai incontrato.
+
+La tua vera natura, la giustizia del mondo
+che punisce chi ha le ali e non vola.
+
+Baciami ancora…
+Baciami ancora…
+
+Tutto il resto è un rumore lontano
+una stella che esplode ai confini del cielo.
+
+Baciami ancora…
+Baciami ancora…
+
+Voglio stare con te
+invecchiare con te
+stare soli io e te sulla luna.
+
+Coincidenze, destino,
+un gigante, un bambino
+che gioca con l’arco e le frecce
+che colpisce e poi scappa
+un tesoro, una mappa,
+l’amore che detta ogni legge
+per provare a vedere
+che c’è laggiù in fondo
+dove sembra impossibile stare da soli
+a guardarsi negli occhi
+a riempire gli specchi
+con i nostri riflessi migliori
+
+Baciami ancora…
+Baciami ancora…
+
+Voglio stare con te
+inseguire con te
+tutte le onde del nostro destino.
+
+Baciami ancora…
+Baciami ancora…
+Baciami ancora…
+Baciami ancora…
+Baciami ancora…
+        </item>
+        <item>
+La la lala la la la
+
+Posso fare a meno dei milioni
+tanto portano solo problemi
+ma non posso fare a meno del vino
+non amando troppo gli schemi
+
+Posso fare a meno di un motore
+è troppo bello camminare
+posso fare a meno di sapere
+perché spesso preferisco immaginare
+
+Ma che dire, che fare
+quando io io non posso fare a meno di te
+che sei l’infinito tra i miei desideri
+la la
+tu che sei il sogno più grande tra i sogni più veri
+e questa canzone
+che gira e rigira la dedico a te
+il mio unico amore
+il senso di ogni cosa che c’è
+
+Posso fare a meno del silenzio
+preferisco comunicare
+posso fare a meno di un partito
+tanto il pane me lo devo guadagnare
+
+Ma che dire, che fare
+quando io io non posso fare a meno di te
+che sei l’infinito tra i miei desideri
+la la
+tu che sei il sogno più grande tra i sogni più veri
+e questa canzone
+che gira e rigira la dedico a te
+il mio unico amore
+il senso di ogni cosa
+
+Per te che sei l’infinito tra i miei desideri
+la la
+tu che sei il sogno più grande tra i sogni più veri
+e questa canzone
+che gira e rigira la dedico a te
+il mio unico amore
+il senso di ogni cosa che c’è
+        </item>
+        <item>
+é inutile che ormai
+ti ostini a dire no
+negando un fatto ovvio
+
+Tu necessiti di me
+nello stesso modo che
+anche io di te
+
+Tu lascia che ora sia così
+prendi il sogno che ora è qui
+e inizia a crederci
+E non andare mai via perchè
+
+Fino a che rimani
+sarà  tu il migliore dei miei mali, tu sarai
+Di quest’anni avari
+l’oro nelle mani sarò
+lo stesso anch’io per te
+
+E basterebbe ammattere
+che comunque quel che c’è
+è la prova più evidente
+
+Che un passato sterile
+non concede repliche
+né al futuro né al presente
+
+Così, ormai
+non tornare indietro mai
+non sacrificare noi
+lo sai
+
+Fino a che rimani
+sarà  tu il migliore dei miei mali, dei miei mali, tu sarai
+Di quest’anni avari
+l’oro nelle mani e sarò
+lo stesso anch’io
+lo stesso anch’io
+
+Dei miei giorni insani
+la cura nelle mani
+tu sarai
+lo sarò anch’io, per te
+
+è inutile che ormai
+ti ostini a dire no
+negando un fatto ovvio
+        </item>
+        <item>
+La notte ti porta consiglio
+magari domani stai meglio
+ed ogni cosa ti sembra cambiata
+ma forse tu non l’avevi osservata
+Il cielo col buio è un presepe
+le case diventano piccole
+ed io che non riesco a mostrare emozioni
+ed io che non riesco più a piangere
+
+Mi sono messa la maglietta rossa
+quella dell’ultima.. dell’ultima volta
+quando mi hai detto noi dobbiamo parlare
+e tutto il mondo è cominciato a tremare
+L’amore è una cosa da niente
+non è come ti fanno credere
+ed io che non riesco a sentire emozioni
+ed io che non riesco più a ridere
+
+Senza andata né ritorno
+io consumo un’altro giorno
+confinandomi di niente
+tanto il niente è quello che hai lasciato dietro te
+Senza andata né ritorno!
+sto sprecando un’altro giorno in più
+per vivere e ricominciare
+per sognare un cielo azzurro all’orizzonte senza nuvole
+sognare un cielo azzurro all’orizzonte senza nuvole
+
+La notte si deve dormire
+ed ogni pensiero chiarire
+se la tua vita ti appare diversa
+magari sei tu che non sei più la stessa
+Il cielo col buio è uno specchio
+le case diventano lucciole
+ed io che non riesco a mostrare emozioni
+ed io che non riesco più a vivere
+
+Senza andata né ritorno
+io consumo un’altro giorno
+confinandomi di niente
+tanto il niente è quello che hai lasciato dietro te
+Senza andata né ritorno!
+sto sprecando un’altro giorno in più
+per vivere e ricominciare
+per sognare un cielo azzurro all’orizzonte senza nuvole
+sognare un cielo azzurro all’orizzonte senza nuvole
+
+Senza nuvole…
+Senza andata né ritorno
+sto sprecando un’altro giorno in più
+per vivere e ricominciare
+
+per sognare un cielo azzurro all’orizzonte senza nuvole
+sognare un cielo azzurro all’orizzonte senza nuvole
+Sognare un cielo azzurro all’orizzonte senza nuvole
+        </item>
+        <item>
+Che rumore fa la felicità .
+Come opposti che si attraggono,
+come amanti che si abbracciano.
+
+Camminiamo ancora insieme,
+sopra il male sopra il bene,
+
+Ma i fiumi si attraversano e le vette si conquistano.
+Corri fino a sentir male
+con la gola secca sotto il sole.
+
+Che rumore fa la felicità
+
+Mentre i sogni si dissolvono
+e gli inverni si accavallano
+quanti spilli sulla pelle
+dentro il petto sulle spalle,
+ma amo il sole dei tuoi occhi neri
+più del nero opaco dei miei pensieri
+
+e vivo fino a sentir male
+con la gola secca sotto il sole.
+Corri amore, corri amore.
+
+Che rumore fa la felicità
+
+Insieme, la vita lo sai bene
+ti viene come viene, ma brucia nelle vene e viverla insieme
+è un brivido è una cura
+serenità  e paura
+coraggio ed avventura,
+da vivere insieme, insieme, insieme, insieme…a te.
+
+Che rumore fa la felicità .
+
+Due molecole che sbattono
+come mosche in un barattolo
+con le ali ferme senza vento
+bestemmiando al firmamento.
+
+Mentre il senso delle cose muta
+ed ogni sicurezza è ormai scaduta
+appassisce lentamente
+la coscienza della gente.
+
+Che rumore fa la felicità .
+
+Che sapore ha, quando arriverà  sopra i cieli grigi delle città
+che fingono di essere rifugio per le anime.
+Corri fino a sentir male
+con la gola secca sotto il sole.
+Corri amore, corri amore.
+
+Che rumore fa la felicità
+
+Insieme, la vita lo sai bene
+ti viene come viene, ma brucia nelle vene e viverla insieme
+è un brivido è una cura
+serenità  e paura
+coraggio ed avventura,
+da vivere insieme, insieme, insieme, insieme a te.
+
+Dove sei ora?
+Come stai ora?
+Cosa sei ora?
+Cosa sei?
+Dove sei ora?
+Come sei ora?
+Cosa sei ora?
+Cosa sei, cosa sei? ma…
+
+Insieme, la vita lo sai bene
+ti viene come viene, ma è fuoco nelle vene e viverla insieme
+è un brivido è una cura
+serenità  e paura
+coraggio ed avventura,
+da vivere insieme, insieme, insieme a te…
+        </item>
+        <item>
+Mi domando perché quando vivi aspettando
+un giorno passa lentamente come fosse un anno
+Mi domando perché non sono nato nel 50
+Avrei saputo cosa fare io negli anni 70
+Mi domando se sei mia oppure fai finta
+E se alla fine dei fatti essere onesti conta
+Mi domando se la storia è stata scritta dagli eroi
+O da qualcuno che pensava solamente ai cazzi suoi
+Mi domando perché mi fa schifo la mia faccia
+A volte si e a volte no
+Perché a volte voglio avere solo quello che non ho
+Mi domando soltanto perché
+Gesù Cristo è morto in croce per me
+
+Voglio sentirmi libero da questa onda
+Libero dalla convinzione che la terra è tonda
+Libero libero davvero non per fare il duro
+Libero libero dalla paura del futuro
+Libero perché ognuno è libero di andare
+Libero da una storia che è finita male
+E da uomo libero ricominciare
+Perché la libertà  è sacra come il pane
+E’ sacra come il pane
+
+Mi domando perché pensare troppo mi turba
+E se una volta almeno mio padre ha fumato l’erba
+Mi domando se avrò un figlio
+E se mio figlio mi odierà
+Perché purtroppo si odia
+Chi troppo amore ci da
+Mi domando se la mia è una vita felice
+E so rispondere solo che mi piace
+
+Voglio sentirmi libero da questa onda
+Libero dalla convinzione che la terra è tonda
+Libero libero davvero non per fare il duro
+Libero libero dalla paura del futuro
+Libero perché ognuno è libero di andare
+Libero da una storia che è finita male
+E da uomo libero ricominciare
+Perché la libertà  è sacra come il pane
+E’ sacra come il pane
+
+Libero perché ognuno è libero di andare
+Libero da una storia che è finita male
+E da uomo libero ricominciare
+Perché la libertà  è sacra come il pane
+E’ sacra come il pane
+        </item>
+        <item>
+Seduti qui per terra così
+in questa camera da imbiancare
+felici di non chiedere di più
+
+Dimmi di sì
+anche se qui
+c’è solo un tavolo come altare
+e un pane da dividere
+
+Avvicinati anche tu
+e per me timidi più
+la tua bocca sulla mia
+per non andare via
+
+E balliamo a piedi nudi
+con la musica alla radio
+più forte mentre gli anni passano
+in questa casa che profuma in ogni angolo
+faremo il nostro simbolo
+
+Avremo anche noi
+bollori che forse www.testicanzone.com
+non sapremo evitare
+nemmeno affrontare
+ma niente di noi perduto andrà
+semplicemente vincendo l’incuria del tempo
+danzando in due a passo lento
+un sentimento come adesso va….
+
+Il tuo sguardo resterà ,
+senza alcuna impurità
+in ricchezza e povertà
+non si consumerà
+
+E balliamo a piedi nudi
+con la musica alla radio
+in questa casa che io amo in ogni angolo
+e dove mi immedesimo
+dove
+
+Tu fallo con me
+e non lasciarmi mai da sola
+neanche un attimo
+non farlo o morirò (oh noo.. oh noooo)
+No.
+        </item>
+        <item>
+Dicono di me,
+che sono un bastardo, bugiardo e lo fanno senza un perchè…
+Dicono di me,
+che sono una strega drogata e truccata e piena di sè…
+E dicono di me,
+che sono una stupida frase da dire davanti a un caffè…
+
+E invece no, nessuno sa. www.testicanzone.com
+E invece no, nessuno sa.
+Che avrei soltanto l’amore per lei…
+Per lei che ha il nome di un fiore, per lei…
+Per lei..
+
+Dicono di me,
+che sono una stupida frase da dire davanti a un caffè…
+Dicono di me,
+che sono un serpente con ali da diavolo e un cuore da re…
+Ecco perchè, nessuno sa.
+Ecco perchè, nessuno sa.
+Ecco perchè, nessuno sa.
+Nessuno sa….
+
+Che avrei soltanto l’amore per lei…
+Per lei che ha il nome di un fiore per lei…
+Per lei che è l’unica al mondo, per lei…
+Per lei che è l’unica al mondo, per lei…
+Ed ogni raggio di luna è per lei…
+Ed ogni raggio di luna è per lei…
+Lei…
+        </item>
+        <item>
+Testo della canzone SARO’ SINCERO dei Modà
+Sento spesso il bisogno di chiudere gli occhi e capire,
+se e giusto pensarti, lo stesso,
+anche se sei un ricordo,ed è strano,
+ricevere tanto da te senza averti vicino..
+ora che è freddo vorrei tanto,
+averti qui addosso e sentire più caldo non avere più paure
+e impegnarmi per farti star bene
+perché per me sei il sole e le mie parole non son solo parole
+
+io sento le tue mani lo stesso
+anche se non ti ho accanto
+vorrei averti vicino per farti sentire che bello
+è l’inverno dove un semplice abbraccio
+può sembrare diverso perché oltre al contatto,
+trasmette qualcosa di molto più caldo.
+
+Mi domando se è giusto se son pazzo
+se è sbagliato quel che stò facendo mi rispondo,
+che posso mentire con tutti ma non a me stesso
+che non voglio rinunciare a qualcosa che sento
+e che voglio di brutto,
+e che cerco nel vento giuro le mie parole,
+non son solo parole
+io sento le tue mani lo stesso anche se non ti ho accanto
+vorrei averti vicino per farti sentire..
+Che bello è l’inverno dove un semplice abbraccio,
+può sembrare diverso,
+perché oltre al contatto trasmette qualcosa..
+di molto più caldo e ..e .. e..
+Tutte le canzoni dei Modà
+        </item>
+        <item>
+            E’ piovuto il caldo
+Ha squarciato il cielo
+Dicono sia colpa di un’estate come non mai
+Piove e intanto penso
+Ha quest’acqua un senso
+Parla di un rumore
+Prima del silenzio e poiâ€¦
+E’ un inverno che va via da noi
+Allora come spieghi
+
+Questa maledetta nostalgia
+Di tremare come foglie e poi
+Di cadere al tappeto?
+D’estate muoio un po’
+Aspetto che ritorni l’illusione
+Di un’estate che non soâ€¦
+Quando arriva e quando parte,
+Se riparte?
+E’ arrivato il tempo
+
+Di lasciare spazio
+A chi dice che di spazio
+E tempo non ne ho dato mai
+Seguo il sesto senso
+Della pioggia il vento
+Che mi porti dritta
+Dritta a te
+Che freddo sentirai
+E’ un inverno che Ã¨ giÃ  via da noi
+
+Allora come spieghi
+Questa maledetta nostalgia?
+Di tremare come foglie e poi
+Di cadere al tappeto?
+D’estate muoio un po’
+Aspetto che ritorni l’illusione
+Di un’estate che non soâ€¦
+Quando arriva e quando parte,
+Se riparte?
+
+E’ un inverno che Ã¨ giÃ  via da noi
+Allora come spieghi
+Questa maledetta nostalgia?
+Di tremare come foglie e poi
+Di cadere al tappeto
+D’estate muoio un po’
+Aspetto che ritorni l’illusione
+Di un’estate che non soâ€¦
+Quando arriva e quando parte,
+
+Se riparte?
+E’ arrivato il tempo
+Di lasciare spazio
+A chi dice che di tempo
+E spazio non ne ho
+Dato mai
+        </item>
+        <item>
+Un vuoto d’aria nella gola
+non riesco a dir non riesco a dire
+se quel che manca è la parola ormai
+aiutami a capi aiutami a capire
+e un singhiozzo di pensieri
+che non mi fa parlare
+che non mi fa parlare
+o forse solo perchè ieri sai
+mi ha strozzato il cuore
+mi ha strozzato il cuore
+mi ha strozzato il cuore
+
+dimmi pure amore prova almeno a respirare
+piano piano amore
+non c’è niente da temere
+solo freddo amore
+e tu lasciami scaldare
+mentre il mondo cade
+come cade cado anche io
+senza le parole
+che vorrei poterti dire
+si vorrei poterti dire dire dire
+che son stanco da morire
+
+ma è tornato il vuoto d’aria
+nelle mie paro nelle mie parole
+e un nodo stretto nella gola ormai
+che non si scioglie anco che non scioglie ancora
+e se balbetto è che non riesco
+a dirti quel che pe a dirti quel che penso
+e preferisco tener dentro sai
+anzichè grid anzichè gridare…
+
+dimmi pure amore prova almeno a respirare
+piano piano amore
+non c’è niente da temere
+solo freddo amore
+e tu lasciami scaldare
+mentre il mondo cade
+non ti accorgi che sono io a farlo scivolare
+ciò che chiedi è sotto il sole
+tutto il resto muore
+senza neanche avere il tempo
+il tempo di provare
+a far tornare indietro il sole
+senza più rancore
+mi ripeti è freddo a amore
+ho perso le parole
+che vorrei poterti dire e vorrei poterti dire
+che son stanco da morire
+
+e non voglio più restare
+almeno lasciami il perdono
+di un singhiozzo e non di un pianto
+io non so gridare canto
+
+non ti accorgi che sono io a farlo scivolare
+ciò che chiedi è sotto il sole tutto il resto muore
+senza neanche avere il tempo il tempo di provare
+a far tornare indietro il sole senza più rancore
+mi ripeti è freddo a amore ho perso le parole
+che vorrei poterti dire e vorrei poterti dire dire dire dire…
+che son stanco da morire
+        </item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Tiitemtle of Song</string>
+    <string name="author">Author of song</string>
+    <string name="song_text">Text of song</string>
+    <string name="item_title_of_song">Item title of song</string>
+    <string name="item_outhor_of_song">Item Author of song</string>
+    <string name="text_of_song">Testo della canzone</string>
+</resources>
