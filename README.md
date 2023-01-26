@@ -33,3 +33,7 @@ il messaggio/dati alla componente Fragment Appropriata.
 
 
 
+
+
+https://user-images.githubusercontent.com/14333506/214927105-a6bcc3f4-4bf1-473f-b332-33ebd5f698e5.mov
+
