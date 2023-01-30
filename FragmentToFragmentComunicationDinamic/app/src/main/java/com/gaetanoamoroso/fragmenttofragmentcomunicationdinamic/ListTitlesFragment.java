@@ -1,6 +1,7 @@
 package com.gaetanoamoroso.fragmenttofragmentcomunicationdinamic;
 
 import android.content.Context;
+import android.content.res.Resources;
 import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
@@ -83,7 +84,7 @@ public class ListTitlesFragment extends Fragment {
             author = string_parts[1];
             // cambio il colore del drawable "badge.xml" scegliendo un colore randomicamente tra quelli presenti in COLORS
             color = COLORS[new Random().nextInt(COLORS.length)];
-            GradientDrawable gradientDrawable = (GradientDrawable)getResources().getDrawable(R.drawable.badge);
+            GradientDrawable gradientDrawable = (GradientDrawable)getResources().getDrawable(R.drawable.badge, getActivity().getTheme());
             gradientDrawable.setColor(Color.parseColor(color));
 
             // Creo una istanza di Item costruita attraverso i passaggi appena sopra
