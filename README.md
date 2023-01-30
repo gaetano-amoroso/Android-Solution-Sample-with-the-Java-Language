@@ -1,4 +1,4 @@
-<h1 style="text-align:center; font-size:2.5em; color:#ff6699">`#ff6699`ANDROID SOLUTION SAMPLE WITH THE JAVA LANGUAGE</h1>
+<h1 style="text-align:center; font-size:2.5em; color:#ff6699">ANDROID SOLUTION SAMPLE WITH THE JAVA LANGUAGE</h1>
 
 <h2 style="text-align:center; color:66ff99">FRAGMENT</h2>
 
