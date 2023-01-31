@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppSpecificStorageExternal</string>
+    <string name="in_out_data">In-Out Data</string>
+</resources>
