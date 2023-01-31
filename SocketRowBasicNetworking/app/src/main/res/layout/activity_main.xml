@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="10dp">
+
+
+    <LinearLayout
+        android:id="@+id/ll_01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3"
+        >
+
+        <TextView
+            android:id="@+id/tv_label_address"
+            android:layout_width="0dp"
+            android:layout_weight="2.15"
+            android:layout_height="wrap_content"
+            android:text="Address"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#706F6F"/>
+        <TextView
+            android:id="@+id/tv_label_port"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_weight="0.85"
+            android:text="Port"
+            android:layout_marginBottom="10dp"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#706F6F"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3"
+        android:layout_below="@id/ll_01">
+    <EditText
+        android:id="@+id/et_address"
+        android:layout_width="0dp"
+        android:layout_weight="2.15"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:inputType="text"
+        android:minHeight="30dp">
+        <requestFocus/>
+    </EditText>
+    <EditText
+        android:id="@+id/et_port"
+        android:layout_width="0dp"
+        android:layout_weight="0.85"
+        android:layout_height="wrap_content"
+        android:minHeight="30dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3"
+        android:layout_below="@id/ll_02"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+        <TextView
+            android:id="@+id/tv_label_header_http"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:text="Http Header"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#706F6F">
+        </TextView>
+        <EditText
+            android:id="@+id/et_header_http"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:inputType="textMultiLine"
+            android:minHeight="30dp"/>
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SEND"
+        android:layout_below="@id/ll_03"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btn_send">
+
+        <TextView
+            android:id="@+id/tv_response"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Response"/>
+    </ScrollView>
+
+
+</RelativeLayout>
