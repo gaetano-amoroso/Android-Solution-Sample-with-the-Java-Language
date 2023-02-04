@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ScoreActivity"
+    android:padding="10dp"
+    android:background="#656565"
+    android:layout_margin="10dp">
+    <LinearLayout
+        android:id="@+id/ll_score_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:weightSum="3"
+        >
+
+        <TextView
+            android:id="@+id/tv_record_men_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="#E0DFDF"
+            android:padding="5dp"
+            android:layout_marginEnd="10dp"
+            >
+        </TextView>
+        <TextView
+            android:id="@+id/tv_score_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="score 1"
+            android:padding="3dp"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="#E0DFDF"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_score_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:weightSum="3"
+        android:layout_below="@id/ll_score_1">
+        <TextView
+            android:id="@+id/tv_record_men_2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="#E0DFDF"
+            android:inputType="text"
+            android:padding="5dp"
+            android:layout_marginEnd="10dp">
+        </TextView>
+        <TextView
+            android:id="@+id/tv_score_2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="score 2"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="#E0DFDF"
+            android:padding="3dp"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_score_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:layout_below="@id/ll_score_2"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/tv_record_men_3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="#E0DFDF"
+            android:padding="5dp"
+            android:layout_marginEnd="10dp">
+        </TextView>
+        <TextView
+            android:id="@+id/tv_score_3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="score 3"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:background="#E0DFDF"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="3dp"
+
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>
