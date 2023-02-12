@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements ListTitlesFragmen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // Quì setto il Fragment da visualizzare All'avvio
+
         FragmentManager fragmentManager = getSupportFragmentManager();
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
         fragmentTransaction.replace(R.id.fr_container, ListTitlesFragment.newInstance(), "ListTitleFragment")
@@ -62,6 +63,7 @@ public class MainActivity extends AppCompatActivity implements ListTitlesFragmen
 
 
     }
+
 
 
 
